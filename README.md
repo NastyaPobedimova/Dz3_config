@@ -170,4 +170,4 @@ ExperimentConfig:
   notes: Precise measurements required
 ```
 # Общие тесты
-![image](https://github.com/YG5126/Configuration_Converter/blob/main/Common_test.png)
+![image](https://github.com/NastyaPobedimova/Dz3_config/blob/main/Test_screen.png)
