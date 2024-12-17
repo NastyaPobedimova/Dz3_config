@@ -1,0 +1,8 @@
+GameCharacter:
+  name: Warrior
+  health: 100
+  strength: 55
+  skills:
+  - sword_fighting archery
+  race: Human
+  special_ability: Critical Strike
